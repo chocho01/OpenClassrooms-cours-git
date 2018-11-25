@@ -1,0 +1,6 @@
+{
+  "name": "OpenClassrooms Course",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
